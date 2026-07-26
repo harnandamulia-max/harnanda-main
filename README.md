@@ -1,8 +1,8 @@
 # UAS Data Mining - Implementasi Supervised dan Unsupervised Learning
 
 ## Identitas Mahasiswa
-- **Nama:** [M.Yasir]
-- **NIM:** [23146005]
+- **Nama:** [harnanda]
+- **NIM:** [23146013]
 - **Mata Kuliah:** Data Mining (SIF304)
 - **Dosen Pengampu:** Teuku Rizky Noviandy, S.Kom., M.Kom.
 
