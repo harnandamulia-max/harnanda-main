@@ -8,6 +8,16 @@
 
 ---
 
+## 🌐 Live Demo Online
+
+**Aplikasi sudah di-deploy! Bisa langsung diakses tanpa perlu install:**
+
+🔗 **[Buka Aplikasi di sini](https://harnanda-main-2bpwxsethoddyheshvfzb9.streamlit.app/)**
+
+> Tinggal klik link di atas dan aplikasi langsung bisa dipakai di browser. Enak banget 👌
+
+---
+
 ## 🎯 Penjelasan Proyek
 
 Jadi proyek UAS ini saya buat aplikasi web interaktif pakai **Streamlit** untuk implementasi dua jenis teknik data mining yang udah dipelajarin di kelas. Basically, proyek ini ada 2 bagian utama yang bisa dicoba:
@@ -59,6 +69,30 @@ streamlit run app.py
 ```
 
 Habis itu aplikasi otomatis buka di browser default kamu, biasanya di `http://localhost:8501`
+
+---
+
+## ☁️ Deploy ke Streamlit Cloud (Online)
+
+Kalo pengen bikin app bisa diakses dari mana aja online (kayak proyek saya), follow langkah-langkah ini:
+
+### 1️⃣ Push ke GitHub
+```bash
+git add .
+git commit -m "Deploy to Streamlit Cloud"
+git push origin main
+```
+
+### 2️⃣ Deploy di Streamlit Cloud
+1. Pergi ke [https://share.streamlit.io](https://share.streamlit.io)
+2. Login dengan GitHub account
+3. Klik "New App" 
+4. Pilih repository & branch
+5. Isi nama file utama: `app.py`
+6. Klik "Deploy"
+7. Tunggu sampai selesai, beres! 🎉
+
+**Hasil:** Link deploy yang bisa diakses siapa aja dari browser (seperti link saya di atas)
 
 ---
 
@@ -170,5 +204,17 @@ Kalo ada bug atau saran, bisa buka issue di GitHub atau contact saya langsung. T
 ## 📝 License
 
 Proyek ini dibuat untuk keperluan UAS mata kuliah Data Mining. 
+
+---
+
+## 🚀 Status Deployment
+
+| Platform | Status | Link |
+|----------|--------|------|
+| **Streamlit Cloud** | ✅ Live | [Buka di sini](https://harnanda-main-2bpwxsethoddyheshvfzb9.streamlit.app/) |
+| **GitHub Repository** | ✅ Updated | [harnanda-main](https://github.com/harnandamulia-max/harnanda-main.git) |
+| **Local Development** | ✅ Ready | Run `streamlit run app.py` |
+
+---
 
 **Created with ❤️ by Harnanda | 23146013**
