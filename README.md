@@ -3,7 +3,7 @@
 ## 📋 Identitas Mahasiswa
 - **Nama:** Harnanda
 - **NIM:** 23146013
-- **Mata Kuliah:** Data Mining (SIF304)
+- **Mata Kuliah:** DATA MINING
 - **Dosen Pengampu:** Teuku Rizky Noviandy, S.Kom., M.Kom.
 
 ---
